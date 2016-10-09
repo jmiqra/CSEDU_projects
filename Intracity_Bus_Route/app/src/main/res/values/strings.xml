@@ -1,0 +1,199 @@
+<resources>
+    <string name="app_name">Intracity Bus Route</string>
+    <string name="select_source">Source </string>
+    <string name="select_destination">Destination </string>
+    <string name="select_option">Option </string>
+
+    <string-array name="location_names">
+        <item>Abdullahpur</item>
+        <item>Adamji</item>
+        <item>Airport</item>
+        <item>Aliganj</item>
+        <item>AnsarCamp</item>
+        <item>AsadGate</item>
+        <item>AshuliaBazar</item>
+        <item>Azampur</item>
+        <item>Azimpur</item>
+        <item>Badda</item>
+        <item>Baipail</item>
+        <item>Balipur</item>
+        <item>Banani</item>
+        <item>BankTown</item>
+        <item>Barba</item>
+        <item>Baridhara</item>
+        <item>Bashundhara</item>
+        <item>BashundharaCity</item>
+        <item>Bhuighar</item>
+        <item>BishMaile</item>
+        <item>Bishwaroad</item>
+        <item>Boardbazar</item>
+        <item>BypassRoad</item>
+        <item>Chawkrabarti</item>
+        <item>ChittagongRoad</item>
+        <item>ChowdhuryPara</item>
+        <item>ChowrastaShibbari</item>
+        <item>CityCollege</item>
+        <item>CollegeGate</item>
+        <item>DakkhinBadda</item>
+        <item>Dariakandi</item>
+        <item>Dhamrai</item>
+        <item>Dhanmondi</item>
+        <item>Dhanmondi-27</item>
+        <item>Dholeshwari</item>
+        <item>EPZ</item>
+        <item>Farmgate</item>
+        <item>Fatullah</item>
+        <item>Gabtali</item>
+        <item>Ganda</item>
+        <item>Gawchia</item>
+        <item>Gulistan</item>
+        <item>Gulshan-1</item>
+        <item>Hajipara</item>
+        <item>Hemayetpur</item>
+        <item>HossainMarket</item>
+        <item>HouseBuilding</item>
+        <item>Islampur</item>
+        <item>JahangirnagarUniversity</item>
+        <item>Jalkuri</item>
+        <item>JasimuddinRoad</item>
+        <item>Jatrabari</item>
+        <item>Jirab</item>
+        <item>JiraniBazar</item>
+        <item>Joykalimandir</item>
+        <item>Jurain</item>
+        <item>Kachpur</item>
+        <item>Kakali</item>
+        <item>Kakrail</item>
+        <item>Kalabagan</item>
+        <item>Kallyanpur</item>
+        <item>Kamarpara</item>
+        <item>Kamlapur</item>
+        <item>Karpa</item>
+        <item>Kataban</item>
+        <item>Kawla</item>
+        <item>Kawranbazar</item>
+        <item>Kazipara</item>
+        <item>Khilgaon</item>
+        <item>Khilkhet</item>
+        <item>Konabari</item>
+        <item>Kuril</item>
+        <item>Langalbandha</item>
+        <item>Madanpur</item>
+        <item>MaddayaBadda</item>
+        <item>Malibagh</item>
+        <item>MalibaghRailGate</item>
+        <item>Medical</item>
+        <item>MeghnaGhat</item>
+        <item>MeghnaNewTown</item>
+        <item>Merul</item>
+        <item>MES</item>
+        <item>Mirpur-1</item>
+        <item>Mirpur-2</item>
+        <item>Mirpur-10</item>
+        <item>Mirpur-11</item>
+        <item>Mirpur-12</item>
+        <item>Mirpur-13</item>
+        <item>Mirpur-14</item>
+        <item>Moghbazar</item>
+        <item>Mohakhali</item>
+        <item>Mohammadpur</item>
+        <item>MohammadpurShiaMosque</item>
+        <item>Motijheel</item>
+        <item>Mowchak</item>
+        <item>Nabinagar</item>
+        <item>Nabisco</item>
+        <item>Nandan</item>
+        <item>NandanPark</item>
+        <item>Narayanganj</item>
+        <item>Narda</item>
+        <item>Narshinghapur</item>
+        <item>NationalUniversity</item>
+        <item>NatunBazar</item>
+        <item>Neelkhet</item>
+        <item>NewMarket</item>
+        <item>Pagla</item>
+        <item>Pallabi</item>
+        <item>PalliBidduth</item>
+        <item>Paltan</item>
+        <item>Panchabati</item>
+        <item>Panthapath</item>
+        <item>Postagola</item>
+        <item>PressClub</item>
+        <item>Purabi</item>
+        <item>PuranaPaltan</item>
+        <item>Rajlashkmi</item>
+        <item>RampuraBazar</item>
+        <item>RampuraTVBhaban</item>
+        <item>RaselSquare</item>
+        <item>Rayerbagh</item>
+        <item>RayerBazar</item>
+        <item>Rupashi</item>
+        <item>Sahajadpur</item>
+        <item>Savar</item>
+        <item>ScienceLab</item>
+        <item>Shahbagh</item>
+        <item>ShahinCollege</item>
+        <item>Shankar</item>
+        <item>Shantinagar</item>
+        <item>Shatrasta</item>
+        <item>Shaymoli</item>
+        <item>ShewraBazar</item>
+        <item>Shewrapara</item>
+        <item>ShibMarket</item>
+        <item>Shibbari</item>
+        <item>ShimantoSquare</item>
+        <item>Shimultali</item>
+        <item>ShonirAkhra</item>
+        <item>Signboard</item>
+        <item>Sonargaon</item>
+        <item>Sreepur</item>
+        <item>StaffRoad</item>
+        <item>StarKabab</item>
+        <item>StationRoad</item>
+        <item>Sukrabad</item>
+        <item>Taltala</item>
+        <item>TaltalaKhilgaon</item>
+        <item>Technical</item>
+        <item>TechnicalMore</item>
+        <item>Tibbat</item>
+        <item>TongiBazar</item>
+        <item>TongiCollegeGate</item>
+        <item>TongiStation</item>
+        <item>TongiStation Road</item>
+        <item>Unique</item>
+        <item>Uttara</item>
+        <item>UttarBadda</item>
+        <item>WirelessGate</item>
+        <item>Zigatola</item>
+    </string-array>
+
+    <string-array name="options">
+        <item>Distance</item>
+        <item>Time</item>
+        <item>Fare</item>
+    </string-array>
+
+    <string-array name="iqra">
+        <item name="id">1</item>
+        <item name="title">Ashol</item>
+    </string-array>
+    <string-array name="tanni">
+        <item name="id">2</item>
+        <item name="title">Muti</item>
+    </string-array>
+    <string-array name="pial">
+        <item name="id">3</item>
+        <item name="title">Gadha</item>
+    </string-array>
+
+
+    <!-- etc. -->
+    <array name="input">
+        <item>@array/iqra</item>
+        <item>@array/tanni</item>
+        <item>@array/pial</item>
+        <!-- etc. -->
+    </array>
+
+    <string name="title_activity_google_map">Map</string>
+</resources>
